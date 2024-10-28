@@ -45,3 +45,7 @@ Placement_Data_Full_Class.csv: O arquivo CSV contendo os dados sobre os estudant
 df_original = pd.read_csv("C:/Users/SeuUsuario/Downloads/Placement_Data_Full_Class.csv", sep=",")
 
 Substitua "C:/Users/SeuUsuario/Downloads/" pelo caminho correto onde o arquivo está localizado em seu sistema.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+### Em caso de dúvidas entre em contato com: Kayo145v@gmail.com
