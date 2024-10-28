@@ -9,7 +9,7 @@ Este projeto realiza uma análise preditiva sobre a empregabilidade de estudante
 - `Análise de Dados Campus.ipynb`: Notebook Jupyter contendo todo o código do projeto, incluindo análise exploratória dos dados, tratamento de dados ausentes, implementação dos modelos preditivos e visualizações.
 
 
-- `Placement_Data_Full_Class.csv`: Dataset utilizado .
+- `Placement_Data_Full_Class.csv`: Dataset utilizado.
 
 
 ## Pré-requisitos
