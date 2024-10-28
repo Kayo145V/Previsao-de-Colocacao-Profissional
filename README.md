@@ -12,7 +12,7 @@ Este projeto realiza uma análise preditiva sobre a empregabilidade de estudante
 - `Placement_Data_Full_Class.csv`: Dataset utilizado .
 
 
-## Requisitos
+## Pré-requisitos
 
 
 Antes de executar o projeto, certifique-se de que você possui os seguintes requisitos instalados:
